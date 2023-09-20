@@ -1,7 +1,9 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# DESAFIO 5 - Bootcamp Python e Django WomakersCode - Codespaces Jupyter
+### Repositório criado para armazenar o desafio proposto na Semana 5.
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+### Proposta do desafio:
+- Reunir informações sobre amostras trazidas da Lua pelas missões Apollo.
+- Adquirir dados sobre os tipos de naves espaciais e foguetes usados para as missões Apollo e as futuras missões Artemis.
+- Compilar DataFrames, ou tabelas, com base nesses dados, que contam histórias e fornecem insights.
+- Criar uma previsão de quanto peso de amostras poderia ser trazido pelas missões Artemis.
+- Fazer uma recomendação da quantidade e dos tipos de rochas em que os astronautas da Artemis devem concentrar seus esforços, com base nas rochas que estão sendo usadas atualmente para pesquisas aqui na Terra.
